@@ -1,3 +1,5 @@
+Panic Forked after the author indicated they might delete their repositories. Rolled back to version licensed on public domain.
+
 # RimworldChildrenWoohoo
 Adds the capability to make children in rimworld
 
